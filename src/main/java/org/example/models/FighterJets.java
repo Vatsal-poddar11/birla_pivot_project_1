@@ -3,6 +3,7 @@ package org.example.models;
 public class FighterJets extends Aeroplane implements Fighter{
     protected static int numMissiles;
     public FighterJets(){
+        //fighter jet
         System.out.println("This is FighterJets Class");
     }
 
